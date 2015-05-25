@@ -1,0 +1,8 @@
+{
+  "name": "how-open-is-open-source",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.4",
+    "github": "^0.2.4"
+  }
+}
